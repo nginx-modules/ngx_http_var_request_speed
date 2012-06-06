@@ -1,6 +1,6 @@
 # Nginx variable request_speed
 
-This module create variable $request_speed contain time of request. Good chooice to track backend (Apache, php-fpm) performance.
+This module create variable $request_speed contain time of request(seconds). Good chooice to track backend (Apache, php-fpm) performance.
 
 Enable by var_request_speed_filter on;
 
